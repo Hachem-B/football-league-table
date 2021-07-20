@@ -3,6 +3,6 @@
 - Data retrieved from https://github.com/opendatajson/football.json
 - All images, data and assets belongs to the [La liga BBVA](https://www.laliga.com/en-GB)
 - Clone, run `npm install` and `npm run dev` to view
+![](Liga-table.gif)
 
-<img src=".static/Liga-table.gif" >
 
